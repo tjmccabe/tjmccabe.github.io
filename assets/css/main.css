@@ -3129,6 +3129,42 @@ input, select, textarea {
 		opacity: 1;
 	}
 
+/* Two */
+
+	#two {
+		/* padding: 9em 0 9em 0 ; */
+		background-color: #4686a0;
+		/* color: rgba(255, 255, 255, 0.75); */
+		background-attachment: fixed,							fixed,							fixed;
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9044d6, #4f7ba4 50%, #43b3c2 95%);
+		background-position: top left,						center center,					center center;
+		background-size: auto,							cover,							cover;
+		/* overflow: hidden; */
+		/* position: relative; */
+		/* text-align: center; */
+	}
+
+/* Four */
+
+	#four {
+		/* padding: 9em 0 9em 0 ; */
+		background-color: #4686a0;
+		/* color: rgba(255, 255, 255, 0.75); */
+		background-attachment: fixed,							fixed,							fixed;
+		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #43b3c2 5%, #4f7ba4 30%, #9044d6);
+		background-position: top left,						center center,					center center;
+		background-size: auto,							cover,							cover;
+		/* overflow: hidden; */
+		/* position: relative; */
+		/* text-align: center; */
+	}
+
+/* Five */
+
+	#five {
+		padding: 3em 0 1.5em 0 ;
+	}
+
 /* Footer */
 
 	#footer {
