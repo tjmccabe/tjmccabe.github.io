@@ -251,6 +251,11 @@ input, select, textarea {
 		margin: -10px 0;
 	}
 
+	.image.smol {
+		margin-bottom: 30px;
+		max-width: 120px;
+	}
+
 	#skill-container {
 		width: 64em;
 	}
