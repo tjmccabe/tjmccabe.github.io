@@ -247,6 +247,14 @@ input, select, textarea {
 		width: 60em;
 	}
 
+	.shrinky {
+		margin: -10px 0;
+	}
+
+	#skill-container {
+		width: 64em;
+	}
+
 		.container.xsmall {
 			width: 15em;
 		}
@@ -2346,7 +2354,7 @@ input, select, textarea {
 			}
 
 			.icon.major:before {
-				font-size: 6em;
+				font-size: 4em;
 				line-height: 1em;
 			}
 
